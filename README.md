@@ -17,7 +17,7 @@ This plugin provides a utility for WordPress sites where featured images were no
 
 ## Installation
 
-1.  Download the latest release from the [Releases](https://github.com/your-username/first-image-as-featured/releases) page.
+1.  Download the latest release from the [Releases](https://github.com/anikaizoku/first-image-as-featured/releases) page.
 2.  In your WordPress dashboard, navigate to **Plugins > Add New**.
 3.  Click on **Upload Plugin** and select the `.zip` file you downloaded.
 4.  Activate the plugin through the 'Plugins' menu in WordPress.
